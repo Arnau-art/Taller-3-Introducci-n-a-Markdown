@@ -34,7 +34,7 @@ Lista de paises:
 
 ## Enlace.
 
-[Enlace a Google](www.google.com)
+[Enlace a Google](https://www.google.com)
 
 ## Otro markdown.
 
