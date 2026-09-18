@@ -1,10 +1,10 @@
-#Mi primer texto en Markdown
+# Mi primer texto en Markdown
 
-##Definición.
+## Definición.
 
 **Markdown** es un lenguaje de *marcado ligero* que permite dar formatos a `textos planos usando` símbolos sencillos en lugar de botones o menús complejos.
 
-##Codigo:
+## Codigo:
 
 ``` 
 python 
@@ -16,7 +16,7 @@ print("Hola,", nombre)
 
 
 
-##Lista ordenada.
+## Lista ordenada.
 
 Hortalizas:
 
@@ -24,7 +24,7 @@ Hortalizas:
 2. Calabacín.
 3. Pimientos.
 
-##Lista desordenada.
+## Lista desordenada.
 
 Lista de paises:
 
@@ -32,15 +32,15 @@ Lista de paises:
 - Francia
 - Portugal
 
-##Enlace.
+## Enlace.
 
 [Enlace a Google](www.google.com)
 
-##Otro markdown.
+## Otro markdown.
 
 [Otro Markdown](Otromarkdown.md)
 
-##Tabla.
+## Tabla.
 
 
 
